@@ -120,8 +120,8 @@ class Settings {
     uint8_t* macAP;
     uint8_t probesPerSSID = 1;
     
-    String ssid = "pwned";
-    String password = "deauther";
+    String ssid = "mbolino";
+    String password = "bambolino";
     bool hidden = false;
     bool captivePortal = true;
     String lang = "en";

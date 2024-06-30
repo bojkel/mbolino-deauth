@@ -72,8 +72,8 @@ void Settings::reset() {
   version = VERSION;
   
   // AP
-  setSSID("pwned");
-  setPassword("deauther");
+  setSSID("mbolino");
+  setPassword("bambolino");
   setChannel(1);
   setHidden(false);
   setCaptivePortal(true);
